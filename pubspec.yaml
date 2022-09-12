@@ -63,8 +63,10 @@ flutter:
   assets:
      - assets/images/images/profile.jpg
      - assets/images/images/solo.jpg
-     - assets/images/images/flower.jpg
-     - assets/images/images/pot.jpg
+     - assets/images/images/flowerpot.png
+     - assets/images/images/vase1.png
+     - assets/images/images/vase2.png
+
       
 
 
